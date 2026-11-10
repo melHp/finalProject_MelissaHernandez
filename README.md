@@ -1,2 +1,2 @@
 # finalProject_MelissaHernandez
-Final project for Programming for Digital Arts
+Final project for Programming for Digital Arts by Melissa Hernandez
