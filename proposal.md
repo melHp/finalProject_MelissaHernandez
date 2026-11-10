@@ -13,9 +13,9 @@ A cozy, colorful fishing minigame, where the character is stationary (sitting by
 - Different fish types
 	- The game will include multiple types of fish with different appearances and rarities. Fish will be selected randomly when the player catches one. 
 - Fish collection jurnal
-	- Players will be able to see the type of fish they have caught so far, read informationg about them, and track their collection progress.
+	- Players will be able to see the type of fish they have caught so far, read information about them, and track their collection progress.
 - Visuals and Animations
-    - The game will feature a colorful environment. Sprites for stationary character and fish will be needed. Animation will be kept at minimum for the fishing line and small effects. 
+    - The game will feature a colorful environment. Sprites for stationary character and fish will be needed. Animation will be kept at a minimum for the fishing line and small effects. 
 
 ## Challenges
 - Learning how to handle mouse inputs. 
@@ -47,4 +47,4 @@ Minimal Viable Outcome:
 
 - Week 4 (Final)
   1. Replace placeholders with custom artwork.
-  2. Debug game, create and submit all deliverable. 
+  2. Debug game, create and submit all deliverables. 
